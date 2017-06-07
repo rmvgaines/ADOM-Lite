@@ -1,0 +1,2 @@
+/desc Roll to kick door.
+/r 1D20cs20 + ?{Strength Bonus|0}
