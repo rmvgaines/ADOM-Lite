@@ -1,2 +1,2 @@
 /desc Roll to cast Cure Light Wounds.
-/r 1D20 + ?{Mana Bonus} + ?{Spell Level - ?{Spell Casting Difficulty (SCD)}
+/r 1D20 + ?{Mana Bonus} + ?{Spell Level} - ?{Spell Casting Difficulty (SCD)}
