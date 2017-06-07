@@ -1,0 +1,2 @@
+/desc Roll to detect traps.
+/r 1D20cs20 + ?{Perception Bonus|0} + ?{Trap Detection|0}
