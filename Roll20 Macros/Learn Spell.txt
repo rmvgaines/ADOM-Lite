@@ -1,2 +1,2 @@
 /desc Roll to learn a spell.
-/r {1D20 + ?{Learning (Total)} + (?{Level}*2) + ?{Arcane / Clerical Modifer}}>?{Spell Learning Difficulty (SLD)}
+/r {1D20 + ?{Learning (Total)|0} + (?{Level|0}*2) + ?{Arcane / Clerical Modifer|0}}>?{Spell Learning Difficulty (SLD)|0}
