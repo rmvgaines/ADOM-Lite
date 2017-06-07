@@ -1,0 +1,2 @@
+/desc Roll to test stealth.
+/r 1D20 + ?{Dexterity Bonus} + ?{Stealth}
