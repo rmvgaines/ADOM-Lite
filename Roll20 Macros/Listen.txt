@@ -1,0 +1,2 @@
+/desc Roll to listen.
+/r 1D20cs20 + ?{Perception Bonus|0} + ?{Listening|0}
