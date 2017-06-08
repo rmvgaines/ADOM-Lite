@@ -1,0 +1,2 @@
+/desc Roll to check dexterity.
+/r 1D20cs20 + ?{Dexterity Bonus|0}
