@@ -1,0 +1,2 @@
+/desc Roll to check toughness.
+/r 1D20cs20 + ?{Toughness Bonus|0}
