@@ -1,0 +1,2 @@
+/desc Roll to check learning.
+/r 1D20cs20 + ?{Learning Bonus|0}
