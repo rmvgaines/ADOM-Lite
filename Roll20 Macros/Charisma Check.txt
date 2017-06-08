@@ -1,0 +1,2 @@
+/desc Roll to check charisma.
+/r 1D20cs20 + ?{Charisma Bonus|0}
