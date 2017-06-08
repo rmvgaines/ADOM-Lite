@@ -1,0 +1,2 @@
+/desc Roll to check strength.
+/r 1D20cs20 + ?{Strength Bonus|0}
