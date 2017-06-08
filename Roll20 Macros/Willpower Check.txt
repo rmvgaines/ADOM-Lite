@@ -1,0 +1,2 @@
+/desc Roll to check willpower.
+/r 1D20cs20 + ?{Willpower Bonus|0}
