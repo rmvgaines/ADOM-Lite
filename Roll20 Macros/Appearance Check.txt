@@ -1,0 +1,2 @@
+/desc Roll to check appearance.
+/r 1D20cs20 + ?{Appearance Bonus|0}
