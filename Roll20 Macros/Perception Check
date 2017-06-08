@@ -1,0 +1,5 @@
+/desc Roll to search, inspect, notice hidden features (other than traps), and detect hidden doors.
+/desc This is not used to detect characters, anything that makes noise, or traps.
+/desc To detect characters or objects that make noise, use a listen roll.
+/desc to detect traps use a detect traps roll.
+/r 1D20cs20 + ?{Perception Bonus|0}
