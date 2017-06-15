@@ -1,2 +1,0 @@
-/desc Roll to check appearance.
-/r [[1d20cf>[[{?{Appearance (Total)|0} + ?{Modifier|0} + 1,0}kh1]]cs[[{[[{?{Appearance (Total)|0} + ?{Modifier|0},0}kh1]],20}kl1]]]] + [[{floor(abs(?{Appearance (Total)|0} + ?{Modifier|0}) / 20),1}kl1 * (?{Appearance (Total)|0} + ?{Modifier|0} - 20)]]
