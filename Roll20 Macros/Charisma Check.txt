@@ -1,2 +1,0 @@
-/desc Roll to check charisma.
-/roll [[1d20cf>[[{?{Charisma (Total)|0} + ?{Modifier|0} + 1,0}kh1]]cs[[{[[{?{Charisma (Total)|0} + ?{Modifier|0},0}kh1]],20}kl1]]]] + [[{floor(abs(?{Charisma (Total)|0} + ?{Modifier|0}) / 20),1}kl1 * (?{Charisma (Total)|0} + ?{Modifier|0} - 20)]]
