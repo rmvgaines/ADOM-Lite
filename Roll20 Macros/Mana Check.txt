@@ -1,2 +1,0 @@
-/desc Roll to check mana.
-/r 1D20cs20 + ?{Mana Bonus|0}
