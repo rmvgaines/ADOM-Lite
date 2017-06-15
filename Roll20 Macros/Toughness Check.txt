@@ -1,2 +1,2 @@
 /desc Roll to check toughness.
-/r 1D20cs20 + ?{Toughness Bonus|0}
+/roll [[1d20cf>[[{?{Toughness (Total)|0} + ?{Modifier|0} + 1,0}kh1]]cs[[{[[{?{Toughness (Total)|0} + ?{Modifier|0},0}kh1]],20}kl1]]]] + [[{floor(abs(?{Toughness (Total)|0} + ?{Modifier|0}) / 20),1}kl1 * (?{Toughness (Total)|0} + ?{Modifier|0} - 20)]]
