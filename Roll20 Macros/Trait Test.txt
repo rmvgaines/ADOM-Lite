@@ -1,2 +1,3 @@
-/desc Roll generic trait test.
-/roll [[1d20cf>[[?{Trait|0}+1]]cs[[{?{Trait|0},20}kl1]]]] + [[{floor(?{Trait|0}/20),1}kl1 * (?{Trait|0} - 20)]]
+!# Multiple values can be provided when entering the trait. e.g. "10 + 2 - 4."
+!# Use this form when you need to sum attributes, skills, or modifiers.)
+/r [[1d20cf>[[{?{Trait|0} + 1,0}kh1]]cs[[{[[{?{Trait|0},0}kh1]],20}kl1]]]] + [[{?{Trait|0},20}kh1 - 20]]
