@@ -1,2 +1,2 @@
-/desc Roll to test stealth.
-/r 1D20cs20 + ?{Dexterity Bonus|0} + ?{Stealth|0}
+!# Roll to test stealth.
+/r [[1d20cf>[[{?{Dexterity|0} + ?{Stealth|0} + ?{Modifiers|0} + 1,0}kh1]]cs[[{[[{?{Dexterity|0} + ?{Stealth|0} + ?{Modifiers|0},0}kh1]],20}kl1]]]] + [[{?{Dexterity|0} + ?{Stealth|0} + ?{Modifiers|0},20}kh1 - 20]]
