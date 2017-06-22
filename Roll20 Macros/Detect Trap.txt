@@ -1,2 +1,2 @@
-/desc Roll to detect traps.
-/r 1D20cs20 + ?{Perception Bonus|0} + ?{Trap Detection|0}
+!# Roll to detect traps.
+/r [[1d20cf>[[{?{Perception|0} + ?{Trap Detection|0} + ?{Modifiers|0} + 1,0}kh1]]cs[[{[[{?{Perception|0} + ?{Trap Detection|0} + ?{Modifiers|0},0}kh1]],20}kl1]]]] + [[{?{Perception|0} + ?{Trap Detection|0} + ?{Modifiers|0},20}kh1 - 20]]
