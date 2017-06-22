@@ -1,2 +1,0 @@
-/desc Roll to evade a trap.
-/r 1D20cs20 + ?{Dexterity Bonus|0} + ?{Dodge|0}
