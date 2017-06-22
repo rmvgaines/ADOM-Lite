@@ -1,0 +1,6 @@
+!# Roll to learn from unsuccessful skill use.
+!# Without Roll20 API access this roll is ugly. It uses a hack ({*,0}kh1) that breaks formatting.
+!# If a number is highlighted in red, the roll failed.
+!# If a number is highlighted in blue or green, the roll was a critical success.
+!# If no numbers are highlighted, use the success count.
+/r {[[1d20cf>[[{?{Learning|0} + 1,0}kh1]]cs[[{[[{?{Learning|0},0}kh1]],20}kl1]]]] + [[{?{Learning|0},20}kh1 - 20]],0}kh1>[[10 + ?{SuP of Failed Skill Trait Test|0}]]
