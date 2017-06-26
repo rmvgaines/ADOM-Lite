@@ -15,7 +15,7 @@
 ## Output
 * Most macros output three lines:
 * The first line shows the roll formula as it is presented to Roll20; this can be ignored.
-* The second line shows the roll. The first number represents the die and the second number represents the modifier that is added when a trait is over twenty. Pass / fail rolls include a third number that represents the target. e.g. "20 + 5 > 15". **The first number will be highlighted in red if the die rolled higher than the trait (roll over failure) or in green on a critical success.**
+* The second line shows the roll. The first number represents the die and the second number represents the modifier that is added when a trait is over twenty. Pass / fail rolls include a third number that represents the target + 1 (One is added due to limitations imposed by Roll20). e.g. "20 + 5 > 15". **The first number will be highlighted in red if the die rolled higher than the trait (roll over failure) or in green on a critical success.**
 * The third line shows the result. In most cases, this will be the number of success points (SuP). In the case of a pass / fail roll, this will show the number of successes: 1 or 0. **Roll over failures and critical successes are not taken into account; they must be applied manually according to the "Roll Over Failures and Critical Successes" section of this document.**
 
 
