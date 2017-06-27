@@ -1,2 +1,2 @@
 !# Roll to learn a spell.
-/r 1d20cf>[[{?{Learning|0} + (?{Level|1}*2) + ?{Arcane / Clerical Modifer|0}} + 1,0}kh1]]cs[[{[[{?{Learning|0} + (?{Level|1}*2) + ?{Arcane / Clerical Modifer|0}},0}kh1]],20}kl1]] + [[{?{Learning|0} + (?{Level|1}*2) + ?{Arcane / Clerical Modifer|0}},20}kh1 - 20]]
+/r 1d20cf>[[{?{Learning|0} + (?{Level|1}*2) + ?{Arcane / Clerical Modifer|0} + ?{Modifiers|0}} + 1,0}kh1]]cs[[{[[{?{Learning|0} + (?{Level|1}*2) + ?{Arcane / Clerical Modifer|0} + ?{Modifiers|0}},0}kh1]],20}kl1]] + [[{?{Learning|0} + (?{Level|1}*2) + ?{Arcane / Clerical Modifer|0} + ?{Modifiers|0}},20}kh1 - 20]]
