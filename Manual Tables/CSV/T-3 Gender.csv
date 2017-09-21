@@ -1,0 +1,4 @@
+T-3: Gender,,
+d20,Gender,Mods
+1-11,Male,(+1Str)
+12-20,Female,(+1To)

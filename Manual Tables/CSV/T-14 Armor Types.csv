@@ -1,0 +1,7 @@
+T-14: Armor Types,,,,,
+d20,Armor,DV,PV,EV,Price
+1-5,Leather Armor,0,3,4,10
+6-9,Studded Leather,(+1),4,6,20
+10-13,Scale Mail,-1,6,10,40
+14-17,Chain Mail,-3,8,12,100
+18-20,Plate Mail,-4,10,15,250

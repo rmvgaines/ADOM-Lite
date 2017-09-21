@@ -1,0 +1,6 @@
+T-38: Armor & Weapon Material Benefits,,,,,,,,,
+1d20+FL,Metal,Leather,Wood,DV,PV,MDR,RDR,EV,GP
+1-20,Steel,Leather,Oak,-,-,-,-,-,-
+21-25,Mithril,Demon Skin,Ironwood,-,+2,+3,+3,-20%,x20
+26-29,Adamantium,Dragon Hide,Blackwood,+1,+4,+5,+6,-30%,x40
+30+,Eternium,Great Wyrm Hide,Treantwood,+2,+6,+9,+10,-50%,x80

@@ -1,0 +1,6 @@
+T-15: Shield Types,,,,,
+d20,Shield,DV,PV,EV,Price
+1-8,Small Shield,(+1),0,3,5
+9-15,Medium Shield,(+2),(+1),5,10
+16-19,Large Shield,(+3),(+1),7,20
+20,Tower Shield,(+4),(+2),9,30

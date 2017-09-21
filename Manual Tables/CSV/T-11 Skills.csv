@@ -1,0 +1,19 @@
+T-11: Skills,,,
+d20, Skill,Governing Attribute,Base Skill Difficulty
+1,Archery*,PE,10
+2,Athletics*,TO,10
+3,Cast Spell*,MA,8
+4,Concentration*,WI,10
+5,Detect Traps*,PE,5
+6,Disarm Traps*,DX,5
+7-8,Dodge,DX,8
+9-10,First Aid*,LE,10
+11,Healing*,LE,10
+12-13,Listening,PE,10
+14,Open Locks*,DX,5
+15,Packaging*,LE,20
+16,Pick Pockets*,DX,6
+17,Smithing*,ST,8
+18,Stealth,DX,10
+19,Survival*,TO,10
+20,Two-Weapon Combat*,DX,20

@@ -1,0 +1,6 @@
+T-27: Exit Direction,
+d20,Direction
+1-5,North
+6-10,East
+11-15,South
+16-20,West

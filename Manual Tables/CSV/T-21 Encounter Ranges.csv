@@ -1,0 +1,6 @@
+T-21: Encounter Ranges,
+Encounter Distance (ED),Range
+0-10,Melee Range
+11-25,Short Missile Range (-2)
+26-50,Medium Missile Range (-5)
+50+,Medium Missile Range (-10)

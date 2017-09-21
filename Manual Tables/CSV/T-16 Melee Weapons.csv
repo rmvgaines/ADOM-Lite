@@ -1,0 +1,14 @@
+T-16: Melee Weapons,,,,,
+d20,Melee Weapon,Melee Attack Power,Melee Damage Rating,EV,Price
+1-2,Dagger,0,4,2,2
+3-5,Short Sword,1,6,3,5
+6-8,Club,0,6,3,1
+9-10,Mace,0,8,4,10
+11-12,Long Sword,1,9,4,15
+13-14,Short Spear,2,6,5,8
+15,Long Spear (2h),2,9,7,12
+16,Battle Axe,2,10,7,18
+17,Quarterstaff (2h),2,8,6,4
+18,2H Sword,4,14,8,30
+19,Warhammer,2,8,6,20
+20,Maul (2h),3,10,10,15

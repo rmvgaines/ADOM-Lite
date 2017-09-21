@@ -1,0 +1,22 @@
+T-34: Pool Effects,
+d20,Pool Effect
+1,Determine one attribute randomly by rolling on table T-41 on page 73. Lower that attribute by an amount equal to a roll on column C of table T-9 on page 15.
+2,Determine one attribute randomly by rolling on table T-41 on page 73. Increase that attribute by an amount equal to a roll on column C of table T-9 on page 15.
+3,"You are healed as per ""Heal"" spell (see page 39)."
+4,"You are blessed as per ""Bless"" spell (see page 38)."
+5,You permanently gain a number of HP equal to a roll on column E of table T-9 on page 15.
+6,You permanently gain a number of PP equal to a roll on column H of table T-9 on page 15.
+7,"You permanently lose a number of PP equal to a roll on column H of table T-9 on page 15. If PP drop below zero, your soul is drained and you die."
+8,"You permanently lose a number of HP equal to a roll on column E of table T-9 on page 15. If HP drop below zero, you turn to dust."
+9,A number of water snakes equal to a roll on column H of table T-9 on page 15 slide out of the pool and attack the character viciously. See the entry for values 128-129 in T-32 on page 61.
+10,Yech! Poisonous stuff! A (14 + DL) / (DL x 2) poison starts killing you!
+11,Oops. You change gender. Permanently.
+12,All your hair falls out. It will also never grow back.
+13,You are cleansed. (1d20) x DL x 10 corruption points are removed immediately. Otherwise it works like a potion of corruption removal.
+14,"You are corrupted by this vile liquid. You immediately gain 1d20 x 1d20 x (DL / 3, minimum 1) corruption points."
+15,You slow down. You permanently lose SP equal to a roll on column C of table T-9 on page 15.
+16,You speed up. You permanently gain SP equal to a roll on column C of table T-9 on page 15.
+17,You experience a random potion effect. Roll on table T-39 on page 73 for details.
+18,An enraged and mutated ochre jelly slides out of the pool and starts attacking you. See the entry for values 154-155 in T-32 on page 61 for the base data. In addition the ochre jelly gains a +10 MAP bonus and all damage inflicted also yields ten times as many corruption points.
+19,You have sudden visions. A ghost teaches you in a skill randomly determined by a roll on table T-11 on page 34. You gain a number of SL equal to a roll on column D of table T-9 on page 15.
+20,"You are infused with arcane knowledge. You immediately learn a spell as determined by a roll on table T-13 on page 39. If you already know the spell, you gain a number of SL in the appropriate ""Cast Spell"" skill as determined by a roll on column D of table T-9 on page 15."

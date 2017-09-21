@@ -1,0 +1,5 @@
+T-35: Item Statuses,
+d20,Item Status
+1-4,Cursed
+5-16,Uncursed
+17-20,Blessed

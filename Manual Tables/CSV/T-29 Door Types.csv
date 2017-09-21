@@ -1,0 +1,6 @@
+T-29: Door Types,
+1d20,Door Type
+1-11,Unlocked
+12-15,Jammed
+16-18,Locked
+19-20,Trapped

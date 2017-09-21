@@ -1,0 +1,12 @@
+T-31: Trap Types,,,,,,
+d20,Encountered trap,AAP,TDP,TDD,TED,TD
+1-4,Falling Block,15,15/9,12,12,+8
+5-10,Arrow from wall (3*),17,17/12,12,14,20
+11,Spear from wall (6*),17,13/9,12,12,+6
+12-13,Pit (1),12/18,15/7,10,-,16
+14,Acid Shower,16,14/12,17,15,20*
+15,Magical Explosion (14*),10,17/15,19,19,+6*
+16,Scything Blades (2),18,16/12,12,14,+8
+17,Bear Trap,12,43043,5,-,+4
+18,Spiked floor,14,13/5,8,10,14
+19-20,Re-roll,-,-,-,-,-

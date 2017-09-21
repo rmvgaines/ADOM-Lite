@@ -1,0 +1,16 @@
+T-10: Starting Equipment,,,,
+Profession,Armor,Shield,Melee Weapon,Missile Weapon
+Archer,Leather,none,Short Sword,...+20 missiles
+Assassin,Studded,none,Short Sword,...+10 missiles
+Barbarian,Chain,none,Two Handed...,none
+Bard,Leather,Small,Rapier,...+10 missiles
+Elementalist,none,none,Dagger,none
+Farmer,none,none,Maul,none
+Fighter,Chain,Medium,Long Sword,none
+Healer,none,none,Quarterstaff,"Sling, 6 bullets"
+Monk,none,none,none,none
+Paladin,Plate,Large,Battle Axe,none
+Priest,Chain,Medium,Mace,none
+Ranger,Studded,Medium,Long Sword,...+20 missiles
+Thief,Leather,none,Short Sword,"Sling, 10 bullets"
+Wizard,none,none,Dagger,none

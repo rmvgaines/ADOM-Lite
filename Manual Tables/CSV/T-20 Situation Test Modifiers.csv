@@ -1,0 +1,8 @@
+T-20 Situation Test Modifiers,
+Situation,Modifier
+Major disadvantage,-4
+Minor disadvantage,-2
+Trivial disadvantage,-1
+Trivial benefit,1
+Minor benefit,2
+Major benefit,4
